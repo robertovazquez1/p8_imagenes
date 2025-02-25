@@ -26,6 +26,7 @@ class MyImg extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
+              Text("Roberto Vazquez Avendaño 22308051326 6.-J"),
               Image.network(
                 'https://i.pinimg.com/736x/92/18/dd/9218dd278ab2bad13b9f302858bb6844.jpg',
                 height: 150,
